@@ -2,6 +2,9 @@
 title: Vista General
 layout: default
 nav_order: 1
+description: "Intento de página a ver como se vería."
+permalink: /
+
 ---
 
 ## Lemon Engineering Career Path
