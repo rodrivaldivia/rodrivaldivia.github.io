@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-# ¿Cuales son los pilares del career path?
+## ¿Cuales son los pilares del career path?
 
 ### Scope
 
