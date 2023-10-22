@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: home
+title: Vista General
+layout: Vista General
+nav_order: 1
 ---
 
 ## Lemon Engineering Career Path
