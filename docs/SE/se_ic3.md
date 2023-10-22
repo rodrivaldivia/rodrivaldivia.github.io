@@ -1,7 +1,7 @@
 ---
 title: IC3 Software Engineer
 layout: default
-parent: Software Engineer
+parent: IC Software Engineer
 nav_order: 1
 ---
 
