@@ -1,6 +1,6 @@
 ---
 title: Vista General
-layout: Vista General
+layout: default
 nav_order: 1
 ---
 
